@@ -84,12 +84,6 @@ Each problem is solved with:
 
 ---
 
-## ⭐ Support
-
-If you find this helpful, consider giving this repository a ⭐.
-
----
-
 ## 👨‍💻 Author
 
 **Pravinkumar S**
