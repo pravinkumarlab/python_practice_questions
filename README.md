@@ -63,27 +63,6 @@ Open the notebook and run the cells.
 
 ---
 
-## 🎯 Purpose
-
-This repository is created to:
-
-- Practice Python regularly  
-- Strengthen problem-solving skills  
-- Track coding progress  
-- Build strong programming fundamentals  
-
----
-
-## 📈 Learning Approach
-
-Each problem is solved with:
-
-- Clear logic  
-- Beginner-friendly implementation  
-- Optimized approach wherever possible  
-
----
-
 ## 👨‍💻 Author
 
 **Pravinkumar S**
